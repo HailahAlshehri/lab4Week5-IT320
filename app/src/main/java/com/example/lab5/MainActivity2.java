@@ -20,3 +20,5 @@ public class MainActivity2 extends AppCompatActivity {
         receiver_msg.setText(str);
     }
 }
+
+/* Hailah Alshehri */
